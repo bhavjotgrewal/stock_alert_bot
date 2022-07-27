@@ -7,9 +7,4 @@ During the current unprecedented situation, finding stock for GPUs, some CPUs, a
 
 # How does it work? #
 
-Proxies are used that the user provides in order to run it's scripts. Beautiful soup is used along with multithreading to increase the scrape speed. Results are displayed using Rich in a seperate window. 
-
-# How do I run it? #
-
-Simply run the .exe in /bin! 
-
+Please see the slide deck available at: https://docs.google.com/presentation/d/1-clBVyp6d368pJz8OL8coLas7yWx8UyAqNnfFBHqQqQ/edit?usp=sharing
